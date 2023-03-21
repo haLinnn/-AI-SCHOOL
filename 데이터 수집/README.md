@@ -10,4 +10,4 @@
 🏠 KOSIS 국가통계포털 미분양주택현황
 - 공공 데이터 조회를 위한 오픈소스 파이썬 라이브러리 PublicDataReader 사용
 - 서울시 지역구 미분양 주택 현황 조회
-- folium 지도 시각화
+- folium, plotly choropleth 지도 시각화
