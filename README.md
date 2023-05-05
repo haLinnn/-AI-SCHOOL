@@ -1,5 +1,5 @@
-# LIKELION AI SCHOOL
-멋쟁이사자처럼 AI SCHOOL 8기
+# LIKELION AI SCHOOL 미니 프로젝트
+멋쟁이사자처럼 AI SCHOOL 8기 미니 프로젝트 모음
 
 |제목|내용|설명|
 |:---:|:---:|:---:|
